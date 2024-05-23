@@ -1,0 +1,27 @@
+.left-side, .right-side, .middle-side, .top-side{
+
+    
+ 
+}
+
+.left-side{
+    height: 100vh;
+    background:red;
+    
+}
+
+.middle-side{
+    height: 100vh;
+    background: yellow;
+    display:flex;
+   
+}
+.right-side{
+    height: 100vh;
+    background-color: blue;
+}
+.top-side{
+    display: flex;
+    background: green;
+    height: 50px;
+}
